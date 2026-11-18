@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laze Vapeshop — Business Analytics System
 
 Laravel 12 (API + SQLite/MySQL) with a React + TypeScript front end (Vite, Recharts).
@@ -33,3 +34,6 @@ Customers (60), Products (50), Suppliers (50), Campaigns (50), Sales (320). Gene
 
 ## Where the analytics live
 `app/Services/BusinessAnalytics.php` (the three steps), `app/Http/Controllers/AnalyticsController.php` (`GET /api/analytics?budget=50000`).
+=======
+# LAZESHOP-BACKEND
+>>>>>>> b0fbdb73d52310bfcd937c0b81d84306e8e3ca1d
